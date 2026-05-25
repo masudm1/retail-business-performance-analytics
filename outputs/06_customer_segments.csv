@@ -1,0 +1,5 @@
+Segment,Customers,Avg_Spend,Segment_Revenue
+High Value (>$5000),274,17484.14,4790654.33
+Mid Value ($1000-$5000),1390,2152.11,2991432.26
+Low Value ($100-$1000),2516,435.02,1094502.12
+Micro (<$100),159,66.79,10620.18
