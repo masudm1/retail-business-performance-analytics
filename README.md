@@ -200,7 +200,7 @@ retail-business-performance-analytics/
 
 ## Dashboard Preview
 
-![Dashboard Preview](images/dashboard_preview.png)
+![Risk Dashboard](images/risk_dashboard_preview.png)
 
 ---
 
