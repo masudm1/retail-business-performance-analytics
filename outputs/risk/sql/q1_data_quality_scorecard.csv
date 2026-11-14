@@ -1,0 +1,9 @@
+Check_Name,Lines,Net_Value
+Total rows,541909,9747747.93
+Missing CustomerID,135080,1447682.12
+Missing Description,1454,0.0
+Cancelled invoices (C-prefix),9288,-896812.49
+Zero unit price,2515,0.0
+Negative unit price,2,-22124.12
+"Negative qty, not a cancellation",1336,0.0
+"Quantity >= 5,000 units on one line",4,245653.2

@@ -1,0 +1,12 @@
+Rule,Severity,Lines,Est_Value_At_Risk,Description,Logged_In_Exception_Log
+MISSING_CUSTOMER_ID,Medium,135037,2062316.29,Transaction cannot be attributed to a customer,Summary only
+NON_PRODUCT_CODE,Low,2892,801222.184,"Fees, postage, manual or sample codes mixed into product data",Yes
+QUANTITY_OUTLIER,Medium,400,400386.92,"Quantity >= 20x product median (and >= 500 units), or any single line >= 5,000 units",Yes
+QUANTITY_OUTLIER,High,5,265876.72000000003,"Quantity >= 20x product median (and >= 500 units), or any single line >= 5,000 units",Yes
+UNEXPLAINED_NEG_QTY,Medium,1326,214908.05,Negative quantity on a non-cancellation invoice (write-off / damage / stock fix),Yes
+ZERO_PRICE_SALE,Low,1174,110511.755,Goods issued at zero price,Yes
+UNEXPLAINED_NEG_QTY,High,10,84553.95,Negative quantity on a non-cancellation invoice (write-off / damage / stock fix),Yes
+PRICE_OUTLIER,High,1,38970.0,Unit price >= 5x or <= 1/5 of product median,Yes
+BAD_DEBT_ADJUSTMENT,High,3,33186.18,Manual 'Adjust bad debt' invoice,Yes
+EXACT_DUPLICATE_LINE,Medium,5268,27406.5,Identical row repeated in the raw file,Summary only
+PRICE_OUTLIER,Medium,2225,19641.61,Unit price >= 5x or <= 1/5 of product median,Yes

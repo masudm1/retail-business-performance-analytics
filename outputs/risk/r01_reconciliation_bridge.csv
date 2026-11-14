@@ -1,0 +1,6 @@
+Step,Rows,Net_Value_USD
+Raw file (all rows),541909,9747747.934
+Less: exact duplicate lines,-5268,-21740.980000000447
+Less: lines with no CustomerID,-135037,-1447487.5300000003
+Less: cancelled invoices (C-prefix),-8872,608689.4699999997
+Cleaned dataset used for reported KPIs,392732,8887208.894
