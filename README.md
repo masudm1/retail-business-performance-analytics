@@ -200,8 +200,11 @@ retail-business-performance-analytics/
 
 ## Dashboard Preview
 
+### Risk dashboard (Power BI)
 ![Risk Dashboard](images/risk_dashboard_preview.png)
 
+### Performance dashboard (Tableau)
+![Performance Dashboard](images/dashboard_preview.png)
 ---
 
 ## Author
